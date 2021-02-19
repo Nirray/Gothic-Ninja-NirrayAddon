@@ -8,6 +8,8 @@
 
 >**Sprint**
 >
+>**Date and time**
+>
 >**Quick 1H/2H weapon style change [NUM 1-3]**
 >
 >**Arrows and arrow change [NUM 4-6]**
