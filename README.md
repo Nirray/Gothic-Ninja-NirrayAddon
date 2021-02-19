@@ -12,8 +12,8 @@ ZenGine Gothic I
 >**Integrated stamina**
 >
 >**Opening chests using strength**
-![1](http://nirray.bplaced.net/Download/Github/g1/1.png)
+![1](http://nirray.bplaced.net/Download/Github/g1/11.png)
 
-![2](http://nirray.bplaced.net/Download/Github/g1/2.png)
+![2](http://nirray.bplaced.net/Download/Github/g1/22.png)
 
-![3](http://nirray.bplaced.net/Download/Github/g1/3.png)
+![3](http://nirray.bplaced.net/Download/Github/g1/33.png)
