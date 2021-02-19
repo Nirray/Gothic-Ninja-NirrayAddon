@@ -6,14 +6,14 @@
 
 ![31](http://nirray.bplaced.net/Download/Github/g111/3.png)
 
->**Spritn**
+>**Sprint**
 >
->**Quick 1H/2H weapon style change**
+>**Quick 1H/2H weapon style change [NUM 1-3]**
 >
->**Arrows**
+>**Arrows and arrow change [NUM 4-6]**
 >
->**Current HP**
+>**Current HP [Disable/Enable Key I]**
 >
->**Integrated stamina**
+>**Integrated stamina [Shift to sprint, swimming, climbing, sneaking drain stamina]**
 >
->**Opening chests using strength**
+>**Opening chests using strength [Key Y]**
